@@ -1,4 +1,2 @@
 # github_example
-This repository is a demonstration of how to create Github repository and properly set it up.  
-Hi Everyone!
-My name is sania and i like java.
+This repository is a demonstration of Event management system in which one can book and manage all the activity related to event. In any event many service providers work simultaneously and it is very hard to manage these providers.The project contains mainly two modules (customer module and Admin module).The purpose of the project is to build an application program to reduce the manual work for event activity and to manage all the information about event, admin, payment and customer by automating the existing manual system by fulfilling their requirements so that their valuable data can be stored for longer period of time with larger accessing and manipulation of the same. 
